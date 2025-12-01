@@ -1,0 +1,2 @@
+grep -i(ingore the case) regex filename: -i(ignore the case) -n (print the line as well) -w (print the exact word), -c(count the matches)
+grep -i "hello" hello.txt
